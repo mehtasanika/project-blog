@@ -14,6 +14,11 @@
 12. Navigate to Settings and scroll to Github Pages
 13. Select the master branch and click save
 
+## Development
+
+1. Open Terminal
+2. run `rvm use 2.2.5`
+3. run `jekyll serve`
 
 ## License
 
