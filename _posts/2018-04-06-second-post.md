@@ -1,0 +1,7 @@
+---
+title: April 3rd, 2018
+---
+
+I played around with the typography for my website and app and I decided I wanted a mixture of sans-serif and serif for the title, so I'm planning on using Copperplate as my main font. I'm trying to stick with that font through my website and application for unity, but I might add in another font to go along with it. I also finalized my color palette, which I attached a picture of below. I'm going to limit myself to three colors, but of the same tint because I don't want the viewer to get confused or annoyed my the various colors.
+
+I started coding my website and working on the homepage right now. I decided to do a carousel of dessert images on the front page to help get a preview of what the app is about. As of right now, I only have images of the actual dessert, but I'm planning on putting location pictures too. I spilt up the website into different categories in order to give a consumer various reasons to downlaod  and brand the app. The categories that I have so far are About, Values, and App. In the About page, I'm planning to give a background of the app and it's main goal in this section. In the Value page, I plan on making the consumer understand our values of the app like organizing the dessert places and types of desserts based off one's location, learning about new and upcoming dessert locations near you, building a better mind map of your surrounding, etc. And for the last page, I'm going to give a little preview of the app and show what it does and how it does it.
