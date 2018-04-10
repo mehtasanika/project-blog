@@ -9,5 +9,5 @@ I created the logo of DessertSpot and I decided to to do a cupcake tier stand wi
 I started working on the different categories of desserts by adding the standard design components on each page. I asked a couple of my friends what they thought about the format and logo so far and they said they really like the font choice and the logo is interesting, but they suggested to change the top part of the logo because it doesn't look exactly like a ice cream sundae. Also, they said to add more color because whenever they think of dessert, they think of different colors. So, I am planning to group each category with a color. I am still playing around with how I am displaying information about locating the places.
 
 <img src="assets/logoscreenshot.jpg" height="300px" width="300px">
-<img src="assets/homepage.jpg" height="500px" width="700px">
-<img src="assets/pageexample.jpg" height="500px" width="700px">
+<img src="assets/homepage.jpg" height="400px" width="500px">
+<img src="assets/pageexample.jpg" height="400px" width="500px">
