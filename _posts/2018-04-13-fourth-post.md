@@ -10,6 +10,6 @@ At this point, I think I need to work on interactions and how to add in more att
 
 For my KPI, I will look into how long people stay on my website and look through the categories and locations. I will record that by either videoing them or timing them.
 
-<img src="assets/homepageupdate.jpg" height="300px" width="300px">
+<img src="assets/homepageupdate.jpg" height="300px" width="700px">
 <img src="assets/popupfirst.jpg"  float="left" height="300px" width="700px">
 <img src="assets/popupscreenshot.jpg" height="300px" width="700px">
