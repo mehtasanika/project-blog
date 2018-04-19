@@ -1,0 +1,5 @@
+---
+title: April 20th, 2018
+---
+
+After presenting on Tuesday, I realized I needed to expand certain sections of my website and make it more interactive, especially if I want people to use my website/app daily. I really want to add more information and interaction on the homepage, but don't know exactly what to put. So, I did some more research on different food websites and got some ideas. One thing I added on my homepage were the three basic steps of how to use my application. Even though, I think one would not know how to use my application immediately, I think they would be able to figure it out once they start exploring the site. I added another tab for suggestions because I think it would be cool if some of my users can also recommend places and share locations that are not on the website, but are cool dessert places for other people to visit too around the city. The most immportant thing I noticed that my website doesn't have enough of are pcitures. I think I need more attractive and mouth-watering dessert pictures on each of my pages, especially my homepage.
